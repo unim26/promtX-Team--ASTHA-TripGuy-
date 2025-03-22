@@ -1,0 +1,59 @@
+[
+  {
+    "train_name": "Vande Bharat Express",
+    "train_number": "22457",
+    "departure_station": "Roorkee (RK)",
+    "arrival_station": "Haridwar Junction (HW)",
+    "departure_time": "20:33",
+    "arrival_time": "21:11",
+    "duration": "38 minutes",
+    "frequency": "Daily except Thursday",
+    "distance_km": 41,
+    "note": "Fastest train on this route"
+  },
+  {
+    "train_name": "Dehradun Shatabdi Express",
+    "train_number": "12017",
+    "departure_station": "Roorkee (RK)",
+    "arrival_station": "Haridwar Junction (HW)",
+    "departure_time": "18:03",
+    "arrival_time": "18:45",
+    "duration": "42 minutes",
+    "frequency": "Daily",
+    "distance_km": 41
+  },
+  {
+    "train_name": "Hemkunt Express",
+    "train_number": "14610",
+    "departure_station": "Roorkee (RK)",
+    "arrival_station": "Haridwar Junction (HW)",
+    "departure_time": "12:25",
+    "arrival_time": "13:15",
+    "duration": "50 minutes",
+    "frequency": "Daily",
+    "distance_km": 41
+  },
+  {
+    "train_name": "Utkal Express",
+    "train_number": "18477",
+    "departure_station": "Roorkee (RK)",
+    "arrival_station": "Haridwar Junction (HW)",
+    "departure_time": "15:10",
+    "arrival_time": "16:00",
+    "duration": "50 minutes",
+    "frequency": "Daily",
+    "distance_km": 41
+  },
+  {
+    "train_name": "BME RKSH Link Express",
+    "train_number": "24888",
+    "departure_station": "Roorkee (RK)",
+    "arrival_station": "Haridwar Junction (HW)",
+    "departure_time": "07:47",
+    "arrival_time": "09:19",
+    "duration": "1 hour 32 minutes",
+    "frequency": "Daily",
+    "distance_km": 41,
+    "note": "Cheapest train on this route"
+  }
+]

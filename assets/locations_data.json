@@ -1,0 +1,131 @@
+[
+  {
+    "location_name": "Haridwar",
+    "tag_line": "Gateway to the Gods",
+    "description": "Haridwar, situated on the banks of the sacred Ganga River, is a major pilgrimage site for Hindus. It's renowned for the Ganga Aarti at Har Ki Pauri and serves as the entry point to the Char Dham Yatra.",
+    "image_links": [
+      "assets/images/Haridwar/hack9.jpg",
+      "assets/images/Haridwar/hack2.png",
+      "assets/images/Haridwar/hack5.jpg",
+      "assets/images/Haridwar/hack4.jpg",
+      "assets/images/Haridwar/hack8.jpg"
+    ],
+    "distance_from_roorkee_km": 32
+  },
+  {
+    "location_name": "Rishikesh",
+    "tag_line": "Yoga Capital of the World",
+    "description": "Rishikesh is famed for its spiritual ambiance, yoga ashrams, and adventure sports like river rafting. The iconic Laxman Jhula bridge and the Beatles Ashram are major attractions.",
+    "image_links": [
+      "assets/images/Rishikesh/rishikesh1.jpg",
+      "assets/images/Rishikesh/rishikesh2.jpg",
+      "assets/images/Rishikesh/rishikesh3.jpg",
+      "assets/images/Rishikesh/rishikesh5.jpg",
+      "assets/images/Rishikesh/rishikesh6.jpg"
+    ],
+    "distance_from_roorkee_km": 51
+  },
+  {
+    "location_name": "Rajaji National Park",
+    "tag_line": "Wildlife Haven of Uttarakhand",
+    "description": "Spanning over 820 square kilometers, Rajaji National Park is home to diverse flora and fauna, including elephants, tigers, and leopards. It's a paradise for wildlife enthusiasts and bird watchers.",
+    "image_links": [
+      "assets/images/Rajaji National Park/rajaji10.png",
+      "assets/images/Rajaji National Park/rajaji3.jpg",
+      "assets/images/Rajaji National Park/rajaji4.jpg",
+      "assets/images/Rajaji National Park/rajaji6.jpg",
+      "assets/images/Rajaji National Park/rajaji5.JPG"
+    ],
+    "distance_from_roorkee_km": 37
+  },
+  {
+    "location_name": "Piran Kaliyar Sharif",
+    "tag_line": "A Symbol of Communal Harmony",
+    "description": "This dargah of Sufi saint Alauddin Ali Ahmed Sabir Kaliyari attracts devotees from all faiths. It's a serene place reflecting the rich cultural heritage of the region.",
+    "image_links": [
+      "assets/images/Piran Kaliyar Sharif/piran1.jpg",
+      "assets/images/Piran Kaliyar Sharif/piran2.jpg",
+      "assets/images/Piran Kaliyar Sharif/piran3.jpg",
+      "assets/images/Piran Kaliyar Sharif/piran4.jpg",
+      "assets/images/Piran Kaliyar Sharif/piran5.jpg"
+    ],
+    "distance_from_roorkee_km": 7
+  },
+  {
+    "location_name": "Mussoorie",
+    "tag_line": "The Queen of Hills",
+    "description": "Mussoorie is a picturesque hill station offering panoramic views of the Himalayas. Attractions include Kempty Falls, Gun Hill, and the Mall Road.",
+    "image_links": [
+      "assets/images/musoorie/mussorie1.jpg",
+      "assets/images/musoorie/mussorie2.jpg",
+      "assets/images/musoorie/mussorie3.jpg",
+      "assets/images/musoorie/mussorie4.jpg",
+      "assets/images/musoorie/mussorie5.jpg"
+    ],
+    "distance_from_roorkee_km": 89
+  },
+  {
+    "location_name": "Dehradun",
+    "tag_line": "The Capital City with a Blend of Cultures",
+    "description": "Dehradun offers a mix of natural beauty and cultural heritage, with attractions like Robber's Cave, Sahastradhara, and the Forest Research Institute.",
+    "image_links": [
+      "assets/images/dehradun/dehradun1.jpg",
+      "assets/images/dehradun/dehradun2.jpg",
+      "assets/images/dehradun/dehradun3.jpg",
+      "assets/images/dehradun/dehradun4.jpg",
+      "assets/images/dehradun/dehradun5.jpg"
+    ],
+    "distance_from_roorkee_km": 70
+  },
+  {
+    "location_name": "Lansdowne",
+    "tag_line": "A Tranquil Hill Station",
+    "description": "Lansdowne is a serene hill station known for its quiet environment, oak and pine forests, and colonial-era architecture.",
+    "image_links": [
+      "assets/images/lansdowne/L1.jpg",
+      "assets/images/lansdowne/L2.jpg",
+      "assets/images/lansdowne/L3.jpg",
+      "assets/images/lansdowne/L4.jpg",
+      "assets/images/lansdowne/L5.jpg"
+    ],
+    "distance_from_roorkee_km": 125
+  },
+  {
+    "location_name": "Chakrata",
+    "tag_line": "A Secluded Hill Station",
+    "description": "Chakrata is known for its serene environment, waterfalls like Tiger Falls, and panoramic views of the surrounding hills.",
+    "image_links": [
+      "assets/images/Chakrata/Chakrata1.jpg",
+      "assets/images/Chakrata/chakrata3.jpg",
+      "assets/images/Chakrata/chakrata4.jpg",
+      "assets/images/Chakrata/chakrata5.jpg",
+      "assets/images/Chakrata/chakrata6.jpg"
+    ],
+    "distance_from_roorkee_km": 110
+  },
+  {
+    "location_name": "Dhanaulti",
+    "tag_line": "A Quiet Retreat in the Hills",
+    "description": "Dhanaulti offers a peaceful environment with dense forests, scenic views, and attractions like the Eco Park.",
+    "image_links": [
+      "assets/images/Dhanaulti/dhanaulti1.jpg",
+      "assets/images/Dhanaulti/dhanaulti2.jpg",
+      "assets/images/Dhanaulti/dhanaulti3.jpg",
+      "assets/images/Dhanaulti/dhanaulti4.jpg",
+      "assets/images/Dhanaulti/dhaunalti5.jpg"
+    ],
+    "distance_from_roorkee_km": 100
+  },
+  {
+    "location_name": "Nainital",
+    "tag_line": "The Lake District of India",
+    "description": "Nainital is known for its beautiful lakes, including Naini Lake, and surrounding hills, making it a popular hill station.",
+    "image_links": [
+      "assets/images/nainital/nainital1.jpg",
+      "assets/images/nainital/nainital2.jpg",
+      "assets/images/nainital/nainital3.jpg",
+      "assets/images/nainital/nainital4.jpg",
+      "assets/images/nainital/nainital5.jpg"
+    ],
+    "distance_from_roorkee_km": 235
+  }]
